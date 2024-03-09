@@ -16,6 +16,7 @@ Admin page Reuirements
         Should look like Table structure
 
 Details:
+
     The mockAPI data is fetched using React Axois. 
     
     And completed the (CRUD) = CREATE,READ,UPDATE,DELETE operation.
